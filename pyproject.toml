@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-sceneassembly"
+description = "A collection of custom nodes for ComfyUI"
+version = "0.0.1"
+readme = "README.md"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/fuzr0dah/comfyui-sceneassembly"
+Issues = "https://github.com/fuzr0dah/comfyui-sceneassembly/issues"
+
+[tool.comfy]
+PublisherId = "fuzr0dah"
+DisplayName = "comfyui-sceneassembly"
+Icon = ""
