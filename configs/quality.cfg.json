@@ -1,0 +1,17 @@
+[
+    {
+        "name": "SD1.5",
+        "prompt": "",
+        "nsfw": ""
+    },
+    {
+        "name": "Pony",
+        "prompt": "embedding:pony\\lazyup6, embedding:lazympos, embedding:pony\\SmoothPony",
+        "nsfw": "embedding:pony\\lazyxxx"
+    },
+    {
+        "name": "Illustrious",
+        "prompt": "",
+        "nsfw": "embedding:Illustrious\\lazynsfw"
+    }
+]

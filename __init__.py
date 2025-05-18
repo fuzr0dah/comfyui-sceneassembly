@@ -6,10 +6,7 @@
 """
 
 from .src.nodes import NODE_CLASS_MAPPINGS
-from .src.nodes import NODE_DISPLAY_NAME_MAPPINGS
 
 __all__ = [
-    "NODE_CLASS_MAPPINGS",
-    "NODE_DISPLAY_NAME_MAPPINGS",
-    "WEB_DIRECTORY",
+    "NODE_CLASS_MAPPINGS"
 ]
